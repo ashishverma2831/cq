@@ -370,7 +370,7 @@ article:has(:hover, :focus) {
 .AIdetail {
     height: 370px;
     width: 100%;
-    background-image: url('./pic8-removebg.png');
+    background-image: url('./images/pic8-removebg.png');
     background-position: left;
     background-size: 49%;
     background-repeat: no-repeat;
